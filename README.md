@@ -24,10 +24,11 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 📝 Blogs
+## 📝 Socials
 
-- Personal linkdin and blog: https://www.linkedin.com/in/mhadi-ahmed/
-- Personal website and portfolio : https://mhadiahmed.github.io/mhadi-personal-site/
+- Personal LinkedIn and blog: https://www.linkedin.com/in/mhadi-ahmed/
+- Personal website and portfolio: https://mhadiahmed.com
+- Personal YouTube Channel: https://youtube.com/c/mhadiahmed
 
 <!-- - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/ -->
 <!-- - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/ -->
